@@ -757,8 +757,8 @@ StScrollBar {
       -panel-corner-background-color: transparent;
       -panel-corner-border-color: transparent; }
   #panel .panel-button {
-    -natural-hpadding: 12px;
-    -minimum-hpadding: 6px;
+    -natural-hpadding: 4px;
+    -minimum-hpadding: 4px;
     font-weight: bold;
     color: #EFEFEF;
     transition-duration: 0.2s; }
