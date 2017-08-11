@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=VimixDark-Ruby
+Name=TimixDark-Ruby
 Comment=A Dark Material Design-like flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=VimixDark-Ruby
-MetacityTheme=VimixDark-Ruby
+GtkTheme=TimixDark-Ruby
+MetacityTheme=TimixDark-Ruby
 IconTheme=Paper
 CursorTheme=Breeze_cursors

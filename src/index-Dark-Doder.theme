@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=VimixDark-Doder
+Name=TimixDark-Doder
 Comment=A Dark Material Design-like flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=VimixDark-Doder
-MetacityTheme=VimixDark-Doder
+GtkTheme=TimixDark-Doder
+MetacityTheme=TimixDark-Doder
 IconTheme=Paper
 CursorTheme=Breeze_cursors

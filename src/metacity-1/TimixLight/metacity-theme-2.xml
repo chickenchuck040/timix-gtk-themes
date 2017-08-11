@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-  <name>VimixDark</name>
+  <name>TimixLight</name>
   <author>Vince</author>
   <copyright>GPL</copyright>
   <date>2016</date>
-  <description>VimixDark Metacity theme</description>
+  <description>TimixLight Metacity theme</description>
 </info>
 
 
 <!-- meaningful constants -->
 
-<constant name="C_titlebar" value="#444444"/>
+<constant name="C_titlebar" value="#EEEEEE"/>
 <constant name="C_titlebar_alt" value="gtk:bg[NORMAL]"/>
 
-<constant name="C_highlight" value="blend/#444444/#FFFFFF/0.2"/>
-<constant name="C_highlight_alt" value="blend/gtk:bg[NORMAL]/#FFFFFF/0.4"/>
+<constant name="C_highlight" value="blend/#EEEEEE/#333333/0.2"/>
+<constant name="C_highlight_alt" value="blend/gtk:bg[NORMAL]/#333333/0.4"/>
 
-<constant name="C_title_focused" value="#FFFFFF"/>
-<constant name="C_title_unfocused" value="blend/#444444/#FFFFFF/0.75"/>
+<constant name="C_title_focused" value="#333333"/>
+<constant name="C_title_unfocused" value="blend/#EEEEEE/#333333/0.75"/>
 <constant name="C_title_alt_focused" value="gtk:fg[NORMAL]"/>
 <constant name="C_title_alt_unfocused" value="blend/gtk:bg[NORMAL]/gtk:fg[NORMAL]/0.75"/>
 

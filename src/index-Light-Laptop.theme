@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=VimixLight-Laptop
+Name=TimixLight-Laptop
 Comment=A Light Material Design-like flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=VimixLight-Laptop
-MetacityTheme=VimixLight-Laptop
+GtkTheme=TimixLight-Laptop
+MetacityTheme=TimixLight-Laptop
 IconTheme=Paper
 CursorTheme=Breeze_cursors

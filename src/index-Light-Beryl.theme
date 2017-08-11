@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=VimixLight-Beryl
+Name=TimixLight-Beryl
 Comment=A Light Material Design-like flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=VimixLight-Beryl
-MetacityTheme=VimixLight-Beryl
+GtkTheme=TimixLight-Beryl
+MetacityTheme=TimixLight-Beryl
 IconTheme=Paper
 CursorTheme=Breeze_cursors

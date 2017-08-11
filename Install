@@ -19,9 +19,9 @@ echo
 for variant in 'Dark' 'Light' ; do
   for size in '' '-Laptop' ; do
 	for color in '' '-Ruby' '-Doder' '-Beryl'; do
-		echo -e "   Installing Vimix${variant}${size}${color} ..."
+		echo -e "   Installing Timix${variant}${size}${color} ..."
 
-		themedir=$DEST_DIR/Vimix${variant}${size}${color}
+		themedir=$DEST_DIR/Timix${variant}${size}${color}
 		install -d ${themedir}
 
 		# Install index.theme
@@ -58,16 +58,16 @@ for variant in 'Dark' 'Light' ; do
 		cd ${srcdir}/gtk-2.0
 
 		cp -ur \
-			Vimix${color}/assets \
-			Vimix${color}/apps.rc \
+			Timix${color}/assets \
+			Timix${color}/apps.rc \
 			${themedir}/gtk-2.0
 
 		cp -ur \
-			Vimix${color}/main${variant}.rc \
+			Timix${color}/main${variant}.rc \
 			${themedir}/gtk-2.0/main.rc
 
 		cp -ur \
-			Vimix${color}/gtk${variant}rc \
+			Timix${color}/gtk${variant}rc \
 			${themedir}/gtk-2.0/gtkrc
 
 		# Install GTK+ 3 Theme
@@ -85,7 +85,7 @@ for variant in 'Dark' 'Light' ; do
 
 		# Install Metacity Theme
 		install -d ${themedir}/metacity-1
-		cd ${srcdir}/metacity-1/Vimix${variant}
+		cd ${srcdir}/metacity-1/Timix${variant}
 		cp -ur \
 			*.svg \
 			${themedir}/metacity-1
@@ -102,7 +102,7 @@ for variant in 'Dark' 'Light' ; do
 		install -d ${themedir}/unity
 		cd ${srcdir}/unity
 		cp -ur \
-			Vimix${size}/* \
+			Timix${size}/* \
 			${themedir}/unity
 	done
   done

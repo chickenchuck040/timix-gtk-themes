@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=VimixLight-Ruby
+Name=TimixLight-Ruby
 Comment=A Light Material Design-like flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=VimixLight-Ruby
-MetacityTheme=VimixLight-Ruby
+GtkTheme=TimixLight-Ruby
+MetacityTheme=TimixLight-Ruby
 IconTheme=Paper
 CursorTheme=Breeze_cursors
