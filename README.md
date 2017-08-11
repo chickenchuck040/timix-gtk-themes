@@ -4,7 +4,9 @@
 Timix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
 
-This theme is based on Flat-Plat gtk theme of nana-4. Thanks nana-4 sincerely for his great job! 
+Timix is based on Vimix: https://github.com/vinceliuice/vimix-gtk-themes
+
+Vimix is based on Flat-Plat gtk theme of nana-4. Thanks nana-4 sincerely for his great job! 
 
 Flat-Plat gtk theme: https://github.com/nana-4/Flat-Plat
 
@@ -63,7 +65,7 @@ To fix it you have to install libxml2-utils
 
 
 ## Icon 
-Timix icon theme is based on Paper-Icon-Theme: https://github.com/snwh/paper-icon-theme 
+Vimix icon theme is based on Paper-Icon-Theme: https://github.com/snwh/paper-icon-theme 
 
 
 #### You can download here: https://github.com/vinceliuice/Timix-gtk-themes/tree/images
